@@ -151,10 +151,8 @@ This case study was completed within **one week** as a guided data analysis exer
 
 ```bash
 ├── README.md
-├── Bellabeat_Case_Study.Rmd / .ipynb
 ├── /data
 │   ├── dailyActivity_merged.csv
 │   └── sleepDay_merged.csv
-├── /visuals
-│   ├── sleep_histogram.png
-│   └── engagement_scatter.png
+├── /notebook
+│   ├── Bellabeat_Case_Study.Rmd / .ipynb
