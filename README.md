@@ -1,6 +1,6 @@
 # Bellabeat Case Study Analysis
 
-Welcome to the Bellabeat Smart Device Usage Analysis project! This repository contains data exploration, cleaning, and analysis performed on smart device usage (Fitbit data) to uncover behavioral trends and generate marketing insights for Bellabeat, a health-focused tech company specializing in wellness products for women.
+ This repository contains data exploration, cleaning, and analysis performed on smart device usage (Fitbit data) to uncover behavioral trends and generate marketing insights for Bellabeat, a health-focused tech company specializing in wellness products for women.
 
 ---
 
